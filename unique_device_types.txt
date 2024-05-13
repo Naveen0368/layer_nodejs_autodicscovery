@@ -1,0 +1,160 @@
+AIM
+Access Control Device
+Air Conditioning Unit
+Application Control Engine Module
+Audio Streaming Device
+Automatic Transfer Switch (ATS)
+Backup System
+Building Controller
+CDM
+CMTS
+CSP
+CVA
+Cable Modem Termination System (CMTS)
+Camera
+Centralized Management Appliance
+Chassis
+Connector
+Controller
+DDoS
+DS
+DSC
+DSL Modem
+DSLAM
+Digital Interface Module
+Digital Sender
+Digital Service Unit (DSU)
+Distributed Antenna System (DAS)
+Ethernet Access Device
+Ethernet Access Device (EAD)
+Ethernet Module
+Ethernet Services Module
+Expansion Card
+Expansion Module
+Fast Ethernet Module
+Firewall
+Gateway
+Global Console Manager (GCM)
+Hub
+IP Camera
+IP Desk Phones
+IP address management (IPAM)
+IPMI
+ISDN Terminal Adapter
+ISE
+Instant Access Point (IAP)
+Integrated Access Device (IAD) or MSAP
+Interactive Voice Response System
+Intrusion Detection System
+Intrusion Detection System (IDS)
+Intrusion Prevention System (IPS)
+LAN
+LAN Controller
+Laser Multifunction Printer
+Laser Printer
+Line Card Module
+Load Balancer
+MCU
+Management Software
+Media Gateway
+Mobile Exchange
+Modem
+Monitoring Equipment
+Monitoring Solution
+Multi-Service Access
+Multi-T1/E1 IP Business Gateway
+Multi-service Access Platform (MSAP)
+Multiplexing Equipment for T1 and E1 Services
+NAM
+NIC
+Network Controller
+Network Infrastructure Device
+Network Interface Card (NIC)
+Network Interface Device (NID)
+Network Interface Module (NIM)
+Network ManagemenrCard (NMC)
+Network Management Appliance
+Network Management Module
+Network Management and Security Platform
+Network Module
+Network Monitoring and Diagnostic Device
+Network Packet Broker (NPB)
+Network Security Appliance
+Network Server
+Network Termination Unit (NTU)
+Network Traffic Management
+Not Found
+ONT
+Operating System
+Optical Network System
+Optical transport platform
+PDU
+POE
+PSU
+Packet Capture and Traffic Analysis appliance
+Palindrome Test Tool
+Power Distribution Unit (PDU)
+Power over Ethernet (PoE)
+Print Server
+Printer
+Printer/Scanner
+Processor
+RSA
+Rack Unit
+Radio
+Remote Access Controller
+Remote Network Monitoring (RMON)
+Router
+Router?
+Sandbox Appliance
+Security and Monitoring Interface
+Server
+Server Management Controller
+Service Assurance Module (SAM)
+Service Control Engine
+Service Control Unit (SCU)
+Service Module
+Session Border Controller (SBC)
+Session Border Controller (SBC) 
+Shelf Controller
+Storage
+Storage Bridge
+Switch
+T1/DSU
+T1/FT1 Multiplexer
+T3/DSU
+Tape Library
+Telephony System
+UCS
+UMG
+UPS
+VPN
+Video Distribution System
+Virtual Intrusion Prevention System (IPS)
+Virtual Machine
+Virtual Router
+VoIP
+VoIP (Voice over Internet Protocol)
+VoIP Gateway
+VoIP Phone
+Voice Gateway
+Voice Portal
+WAN
+WAN Optimization
+WAN Optimization Controller (WOC)
+Web Caching and Content Delivery
+WildFire appliance
+Wireless Access Controller
+Wireless Access Point (WAP)
+Wireless Backhaul Solution
+Wireless Bridge
+Wireless Broadband Platform
+Wireless Communication Device
+Wireless Controller
+Wireless LAN (WLAN)
+Wireless LAN Controller
+Wireless LAN Solution Engine
+Wireless Microphone
+Wireless Module
+Wireless Services Module
+wireless LAN controller (WLC)

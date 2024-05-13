@@ -1,0 +1,16 @@
+server {
+    listen 80;
+    server_name 10.128.7.96;
+    proxy_set_header    X-Real-IP        $remote_addr;
+    proxy_set_header    X-Forwarded-For  $proxy_add_x_forwarded_for;
+
+    location = /favicon.ico { access_log off; log_not_found off; }
+    location /static/ {
+        root /home/uladmin/auto-discovery;
+    }
+
+    location / {
+        include proxy_params;
+        proxy_pass http://unix:/run/gunicorn.sock;
+    }
+}

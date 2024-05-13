@@ -1,0 +1,10 @@
+[run]
+source=
+    sysdescrparser
+
+omit=
+    */__*,
+    */tests/*,
+
+[html]
+directory=docs/htmlcov

@@ -1,0 +1,4 @@
+
+Add this line to cron in order to run the status check every 2 minutes 
+
+*/2 * * * *  /home/uladmin/auto-discovery/venv/bin/python  /home/uladmin/auto-discovery/manage.py runscript device_status >> /home/uladmin/auto-discovery/logs/device-crontab.log 2>&1
